@@ -5,6 +5,9 @@ We used openly available data from
 [cancer imaging archive](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=89096912), segmenting lungs in X-Rays, extracting radiomcis features and predicting hospitalization outcomes. This was merged with electronic health data available in the dataset as CSV. 
 
 
+![general-pop](images/general.png "Logo Title Text 1")
+
+
 ## Run the application
 
 1. Create conda environment from file
